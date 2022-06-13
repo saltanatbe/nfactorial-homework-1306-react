@@ -1,0 +1,15 @@
+.header-wrapper{
+    background-color: #333333;
+    position: fixed;
+    top: 0px;
+    width: 100%;
+    height: 70px;
+}
+
+
+.header-row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+}
